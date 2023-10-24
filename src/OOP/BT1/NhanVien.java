@@ -41,7 +41,7 @@ public class NhanVien {
         this.role = role;
     }
 
-    public ThongTin(String name, int age, String address, String role) {
+    public NhanVien(String name, int age, String address, String role) {
         this.name = name;
         this.age = age;
         this.address = address;

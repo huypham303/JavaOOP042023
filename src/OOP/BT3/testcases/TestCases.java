@@ -27,7 +27,7 @@ public class TestCases extends BaseTest {
 
     public static void main(String[] args) {
 
-        //Login
+        //Login and addCategory
         createDriver();
         login();
         addCategory();
